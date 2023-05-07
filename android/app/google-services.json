@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "480309562020",
+    "project_id": "pasien-50420462-247e6",
+    "storage_bucket": "pasien-50420462-247e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480309562020:android:c1ec043f5598a9f7263431",
+        "android_client_info": {
+          "package_name": "com.example.rsku_50420462"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480309562020-27tird3ulslkfkc15vhjh55mn16fmvla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNLDtH01xEgslGPcRAVZx-AtJjQq-aGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480309562020-27tird3ulslkfkc15vhjh55mn16fmvla.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "480309562020-g1v2ohk9krdsajuhvb2vpol6rbt5cbbm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rsku50420462"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
